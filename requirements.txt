@@ -1,0 +1,5 @@
+python-osc
+pyautogui
+pillow
+numpy
+pywin32
