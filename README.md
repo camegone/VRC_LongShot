@@ -14,7 +14,7 @@ compatible for windows. need to have python installed on your PC.
 # Usage
  1. run app you want to shot (default is VRChat)
  1. run `vrc_longhoot.py`
- 1. wait until the shot ends. (if you change focus on other windows, recording will be interrupted and saved immediately.)
+ 1. wait until the shot ends. (if you change focus on other windows, recording will be interrupted and the image saved immediately.)
 
 
 # Option
@@ -27,7 +27,7 @@ compatible for windows. need to have python installed on your PC.
   ### target
    the name of window to take a photo. default is `VRChat`.
   ### fps
-   frequancy of capture the screen. default is `10`. *recommends to set below 20*
+   frequancy of capture the screen. default is `10`. *recommends to set below than 20*
   ### seconds
    a time to end recording automatically. default is `10`.
   ### resize
@@ -47,4 +47,4 @@ compatible for windows. need to have python installed on your PC.
   ### monthly_subdir
    if true, your photos are sorted into subdirs for each months. default is `true`
   ### make_bright
-   if true, images will be slightly brighter than it is turned off. default is `true`
+   if true, images will be slightly brighter than it is turned off. default is `true` (If `true`, the most bright pixel has to be maximum brightness, when `false` each pixels are just divided by the frames elapsed.)
