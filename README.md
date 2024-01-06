@@ -1,5 +1,5 @@
 # VRC_LongShot
-a program to take long exposure photos. intended to use on VRC, but this can use for other desktop apps.
+a program to take long exposured photos. intended to use on VRC, but this can use for other desktop apps.
 compatible for windows. need to have python installed on your PC.
 ![preview image 1](https://pbs.twimg.com/media/FrpXKT3agAAa8j7?format=png&name=900x900)
 ![preview image 2](https://pbs.twimg.com/media/FrpXLODaMAEXKEx?format=png&name=900x900)
