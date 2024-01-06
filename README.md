@@ -47,4 +47,5 @@ compatible for windows. need to have python installed on your PC.
   ### monthly_subdir
    if true, your photos are sorted into subdirs for each months. default is `true`
   ### make_bright
-   if true, images will be slightly brighter than it is turned off. default is `true` (If `true`, the most bright pixel has to be maximum brightness, when `false` each pixels are just divided by the frames elapsed.)
+   if true, images will be slightly brighter than it is turned off. default is `true`.
+   (If `true`, the most bright pixel has to be maximum brightness, when `false`, each pixels are just divided by the frames elapsed.)
